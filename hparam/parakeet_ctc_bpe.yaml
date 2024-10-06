@@ -41,7 +41,7 @@
 
 name: "FastConformer-CTC-BPE"
 
-init_from_pretrained_model: "stt_en_fastconformer_ctc_xlarge"
+init_from_pretrained_model: "stt_en_fastconformer_ctc_xxlarge"
 
 model:
   sample_rate: 16000
